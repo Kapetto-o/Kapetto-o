@@ -1,7 +1,18 @@
 <h1 align="center">⚔️ Kapetto</h1>
 <p align="center">
   <picture>
-    <img alt="_Kapetto.gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szZW0zNGhpNXMzczUweTZlbHIxazZzbXJpazYwMmVza3dpaTl3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1htx7trtjBdDq8wOTX/giphy.gif">
+    <img width=200px alt="_Kapetto.gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szZW0zNGhpNXMzczUweTZlbHIxazZzbXJpazYwMmVza3dpaTl3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1htx7trtjBdDq8wOTX/giphy.gif">
+  </picture>
+    <picture>
+    <img width=200px alt="_Kapetto.gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szZW0zNGhpNXMzczUweTZlbHIxazZzbXJpazYwMmVza3dpaTl3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1htx7trtjBdDq8wOTX/giphy.gif">
+  </picture>
+    <picture>
+    <img width=200px alt="_Kapetto.gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szZW0zNGhpNXMzczUweTZlbHIxazZzbXJpazYwMmVza3dpaTl3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1htx7trtjBdDq8wOTX/giphy.gif">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <img width=250px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNxdGo5MjAydTA4Y3d6YXIwYnVyeGJuZmxlZnIxbHY4YnlsOW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTlb9WxJOkRUzNbFrD/giphy.gif">
   </picture>
 </p>
 <h1></h1>
