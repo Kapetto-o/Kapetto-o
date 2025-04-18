@@ -54,13 +54,13 @@
   
   <div> <!-- Connection -->
     <a href="mailto:lenkevichpa@gmail.com">
-      <img height=45px src="https://skills-icons.vercel.app/api/icons?i=gmail"/>
+      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=gmail"/>
     </a>
     <a href="https://discord.com/users/849869503365644349">
-      <img height=45px src="https://skills-icons.vercel.app/api/icons?i=discord"/>
+      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=discord"/>
     </a>
     <a href="https://t.me/Kapetto_o">
-      <img height=45px src="https://skills-icons.vercel.app/api/icons?i=telegram"/>
+      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=telegram"/>
     </a>
   </div>
 </div>
