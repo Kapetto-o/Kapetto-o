@@ -45,11 +45,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapetto-o&langs_count=10&layout=compact&theme=dark&hide_border=true&include_all_commits=true&bg_color=00000000"/>
       </picture>
     </p>
-    <p> <!-- Посещения -->
-      <picture>
-        <img src="https://komarev.com/ghpvc/?username=Kapetto-o&color=242938&style=for-the-badge&label=Views:&abbreviated=true"/>
-      </picture>
-    </p>
   </div>
   
   <div> <!-- Connection -->
@@ -62,5 +57,12 @@
     <a href="https://t.me/Kapetto_o">
       <img height=35px src="https://skills-icons.vercel.app/api/icons?i=telegram"/>
     </a>
+  </div>
+  <div>
+    <p> <!-- Посещения -->
+      <picture>
+        <img src="https://komarev.com/ghpvc/?username=Kapetto-o&color=242938&style=pixel&label=Views:&abbreviated=true"/>
+      </picture>
+    </p>
   </div>
 </div>
