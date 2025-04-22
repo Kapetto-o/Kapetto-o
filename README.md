@@ -48,12 +48,6 @@
   </div>
   
   <div> <!-- Connection -->
-    <a href="mailto:lenkevichpa@gmail.com">
-      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=gmail"/>
-    </a>
-    <a href="https://discord.com/users/849869503365644349">
-      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=discord"/>
-    </a>
     <a href="https://t.me/Kapetto_o">
       <img height=35px src="https://skills-icons.vercel.app/api/icons?i=telegram"/>
     </a>
@@ -65,4 +59,12 @@
       </picture>
     </p>
   </div>
+<!--
+    <a href="mailto:lenkevichpa@gmail.com">
+      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=gmail"/>
+    </a>
+    <a href="https://discord.com/users/849869503365644349">
+      <img height=35px src="https://skills-icons.vercel.app/api/icons?i=discord"/>
+    </a>
+-->
 </div>
