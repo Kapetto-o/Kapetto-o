@@ -29,23 +29,9 @@
     </div>
     <div> <!-- Инструменты -->
       <picture>
-          <img height=45px src="https://skills-icons.vercel.app/api/icons?i=git,github,visualstudio,vscode,figma,postman"/>
+          <img height=45px src="https://skills-icons.vercel.app/api/icons?i=git,github,visualstudio,figma,postman"/>
       </picture>
     </div>
-    <div> <!-- OS -->
-      <picture>
-        <img height=45px src="https://skills-icons.vercel.app/api/icons?i=windows"/>
-      </picture>
-    </div>
-  </div>
-  
-  <div> <!-- Statistics -->
-    <p> <!-- Языки -->
-      <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapetto-o&langs_count=10&layout=compact&theme=dark&hide_border=true&include_all_commits=true&bg_color=00000000"/>
-      </picture>
-    </p>
-  </div>
   
   <div> <!-- Connection -->
     <a href="https://t.me/Kapetto_o">
